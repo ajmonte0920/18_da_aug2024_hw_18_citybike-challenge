@@ -1,0 +1,23 @@
+This Tableau story was created through the use of New York Citi Bike datasets for years 2020 and 2023. 
+
+Phenomena: 
+
+1)
+ It can be observed that there was a -7.406% decline in total ridership from 2020 to 2023, a difference of 28,976 recorded rides. 
+
+This decline in bike usage from 2020 to 2023 may be due to several factors. Initially, the pandemic led to increased outdoor activity like biking, but as restrictions eased, usage normalized. Seasonal or adverse weather conditions could have also played a role, along with economic changes like pricing or competition from alternatives (e.g., scooters, ride-sharing). Lastly, infrastructure changes, such as bike lane availability or station adjustments, could have further influenced the decline in ridership.
+
+It can additionally be observed that the widely preferred bike type was a classic bike. 
+
+This could be caused by factor such as weather, exercise routine, travel distance, etc...
+
+2)
+It can be observed that the preferred time of day to start a bike ride is around 4-6 p.m. and the preferred time of year to ride is from July-October. 
+
+The causation of these trends are likely caused by seasonality. People seem to enjoying riding bikes when it is later in the afternoon when the temperature is likely to be cooler than in the earlier portion of the day. Similarly, people seemingly prefer to ride bikes around the third quarter of the year likely due to the adequate weather conditions, not be to hot or to cold. 
+
+Map Analysis: 
+It can be observed that the preferred start and end locations are those that are positioned along the upper bay. Possibly due to tourist attractions, available outdoor activity, proximity of businesses, etc...
+
+ 
+
